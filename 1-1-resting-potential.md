@@ -80,8 +80,7 @@
 - Steady state
   - At a steady state, no single ion will be at its own equilibrium, but the total net flow of all charges into and out of the cell will be equal and opposite.
   - resting pontential $\subset$ steady state
-- The GHK equation:
-
+- The GHK equation: See the [formula sheet](https://courses.edx.org/assets/courseware/v1/f2608d87124ed611d0e711451bbd8240/asset-v1:HarvardX+MCB80.1x+2T2023+type@asset+block/Formula_sheet.pdf).
 - -55mV: Threshold potential/voltage, where action pontentials are generated.
 - Driving force = V_{membrane} - E_{ion}
 - The sodium's sensitivity is the key to how neurons communicate with each other.
