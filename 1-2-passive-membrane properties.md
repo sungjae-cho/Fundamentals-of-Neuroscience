@@ -76,12 +76,12 @@
   - increases membrane resistance. -> Long-distance propagation.
   - decreases capatitance. -> Faster responsiveness.
 - Time constant
-  - $`\tau = R_{mem} C_{mem}`$
+  - $`\tau = R_{\text{mem}} C_{\text{mem}}`$
   - Meaning: How long it takes a piece of membrane to charge up to 63% of its final value in response to a step change in its input voltage.
   - Low time constant: Slow.
   - High time constant: Fast.
-  - $R_{mem}$ $\downarrow$, ion channels $\downarrow$.
-  - $C_{mem}$ $\downarrow$, membrane thickness $\uparrow$.
+  - $R_{\text{mem}}$ $\downarrow$, ion channels $\downarrow$.
+  - $C_{\text{mem}}$ $\downarrow$, membrane thickness $\uparrow$.
 - It is likely that the membrane length constant and time constant change together. However, their increament and decrement do not alway happen together.
 
 ## Lesson 2: Conclusion
