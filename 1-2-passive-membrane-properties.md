@@ -1,8 +1,18 @@
-# 1-2 Introduction: Passive Membrane Properties
+# 1-2 Passive Membrane Properties
+
+## Introduction: Passive Membrane Properties
 
 - Key words: Action potential, resistance, capacitance, passive membrane
   - Passive membrance >< Active membrane
   - Active membrane: Membrane with operating ion pumps, which consume ATP.
+- Lesson 2 highlights
+  - Changing the Membrane Potential
+  - Current and Ohm’s Law
+  - Resistance in the Neuron Interactive
+  - Membrane Capacitance
+  - Field Trip: The Warren Anatomical Museum
+- Supplemental materials
+  - [UTHealth Neuroscience Online Textbook: Chapter 1](https://nba.uth.tmc.edu/neuroscience/s1/chapter01.html)
 
 ## Changing the Membrane Potential
 

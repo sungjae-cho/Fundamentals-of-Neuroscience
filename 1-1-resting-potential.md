@@ -1,7 +1,20 @@
-# 1-1 Introduction: The Resting Potential
+# 1-1 The Resting Potential
+
+## Introduction: The Resting Potential
 
 - Resting state: A neuron that is currently not involved in any active electrical signalling.
 - Resting potential
+- Lesson 1 highlights
+  - The History of Bioelectricity
+  - Introducing the Resting Potential
+  - Fleet Week! Metaphor
+  - The Nernst Potential Interactive
+  - The GHK Equation Interactive
+  - Ion Filters
+  - Field Trip: The Museum of Science
+  - Field Trip: The Human Brain
+- Supplemental materials
+  - [UTHealth Neuroscience Online Textbook: Chapter 1](https://nba.uth.tmc.edu/neuroscience/s1/chapter01.html)
 
 ## Video: The History of Bioelectricity
 
@@ -57,8 +70,8 @@
   - Do the absolute or the relative concentrations of ions matter in determining the Nernst Potential? How do changes to the intracellular and extracellular concentrations of K+ affect its Nernst Potential?
   - What is "driving force," and how do we calculate it?
 - Nernst Potential: the membrane potential at which the diffusion and electrostatic forces for an ion balance out, given particular concentrations inside and outside of the cell.
-  - Nernst potential = reversla potential = equilibrium potential
-  - Nernst potential != resting poential
+  - Nernst potential = reversal potential = equilibrium potential
+  - Nernst potential != resting potential (in a steady state)
   - The Nernst potential is the aim or attractor of the ions themselves.
 - [Formula sheet](https://courses.edx.org/assets/courseware/v1/f2608d87124ed611d0e711451bbd8240/asset-v1:HarvardX+MCB80.1x+2T2023+type@asset+block/Formula_sheet.pdf)
 - Nerst equation
