@@ -65,6 +65,8 @@
 
 ## The Nernst Potential
 
+![image](images/1-1-nernst_equation.png)
+
 - Key questions
   - How do temperature and valence affect the Nernst Potential?
   - Do the absolute or the relative concentrations of ions matter in determining the Nernst Potential? How do changes to the intracellular and extracellular concentrations of K+ affect its Nernst Potential?
@@ -73,7 +75,7 @@
   - Nernst potential = reversal potential = equilibrium potential
   - Nernst potential != resting potential (in a steady state)
   - The Nernst potential is the aim or attractor of the ions themselves.
-- [Formula sheet](https://courses.edx.org/assets/courseware/v1/f2608d87124ed611d0e711451bbd8240/asset-v1:HarvardX+MCB80.1x+2T2023+type@asset+block/Formula_sheet.pdf)
+- [Formula sheet](docs/formula_sheet.pdf)
 - Nerst equation
   - $`E_{\text{ion}}=\frac{RT}{zF}\ln{\frac{[\text{ion}]_{\text{out}}}{[\text{ion}]_{\text{in}}}}`$
     - $R$: The universal gas constant. Fixed.
@@ -82,8 +84,11 @@
     - $F$: Faraday's constant. Fixed.
     - $[\text{ion}]$: The ion concentration.
     - The unit of the result is voltage (V).
+- [Online calculator](https://www.physiologyweb.com/calculators/ghk_equation_calculator.html)
 
 ## The GHK Equation
+
+![image](images/1-1-GHK_equation.png)
 
 - Key questions:
   - What is permeability, and how does it factor into the GHK equation?
