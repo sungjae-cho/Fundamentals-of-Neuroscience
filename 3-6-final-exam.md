@@ -25,3 +25,5 @@
 - The **hypothalamus** is responsible for maintaining homeostasis - this includes directing us to eat when we are hungry and stop eating when we are full.
 - The **cingulate cortex** is part of the limbic system, which is involved in creating emotional and motivational context for our experience of the world.
 - The **medulla** connects higher levels of the brain to the spinal cord.
+
+![image](images/3-6-final_exam-q1-caudal_dorsal_ventral.png)
