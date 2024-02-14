@@ -4,37 +4,59 @@ This repository is to summarize and archive the materials of the course [_Fundam
 
 ## Part 1: The Electrical Properties of the Neuron
 
-- Introduction: A welcome to the course that introduces the course faculty and staff and describes the course policies
+[Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron](https://www.harvardonline.harvard.edu/course/fundamentals-neuroscience-part-1-electrical-properties-neuron)
+
 - Lesson 1: The Resting Potential
   - The History of Bioelectricity
+  - Voltage
   - Introducing the Resting Potential
-  - Fleet Week! Metaphor
-  - The Nernst Potential Interactive
-  - The GHK Equation Interactive
+  - Diffusion and Electrostatics
+  - Potentials and Equilibrium
+  - Fleet Week!
+  - The Nernst Potential
+  - Nernst Potential Problem Solving
+  - The GHK Equation
   - Ion Filters
-  - Field Trip: The Museum of Science
-  - Field Trip: The Human Brain
+  - The Sodium/Potassium Pump
+  - Lesson 1: Conclusion
+  - (Extras!) Museum of Science
+  - (Extras!) The Human Brain
 - Lesson 2: Passive Membrane Properties
+  - Introduction: Passive Membrane Properties
   - Changing the Membrane Potential
+  - Introduction to Resistance
+  - Introduction to Capacitance
   - Current and Ohm’s Law
-  - Resistance in the Neuron Interactive
+  - Resistance in the Neuron
   - Membrane Capacitance
-  - Field Trip: The Warren Anatomical Museum
+  - Lesson 2: Conclusion
+  - (Extras!) The Warren Anatomical Museum
 - Lesson 3: The Action Potential
+  - Introduction: The Action Potential
   - Fundamentals of the Action Potential
+  - Voltage-Gated Channels
   - The Phases of the Action Potential
+  - Channels and Probability
+  - Channel Kinetics
   - The Currents Behind the Action Potential
-  - Field Trip: Neurotoxins at the Aquarium
-  - Field Trip: Electroreception 
+  - Lesson 3: Conclusion
+  - (Extras!) Field Trip: Neurotoxins at the Aquarium
+  - (Extras!) Field Trip: Electroreception 
 - Lesson 4: Action Potential Propagation
+  - Introduction: Action Potential Propagation
   - Signals in the Nervous System
   - Electrical Signalling
-  - Getting from Point A to Point B Interactive
-  - Speeding Up the Action Potential Interactive
+  - Signals as State
+  - Getting from Point A to Point B
+  - Speeding Up the Action Potential
   - Giant Axons
-  - Myelination in Depth Interactive
-  - Field Trip: Sheep Brain Dissection
+  - Myelinated Axons
+  - Myelination I
+  - Myelination II
+  - Lesson 4: Conclusion
+  - (Extras!) Sheep Brain Dissection
 - Do-It-Yourself Labs (optional)
+  - Introduction to DIY Labs
   - Recording and Stimulating a Nerve
   - Rate Coding
   - Electrode Referencing
@@ -42,7 +64,168 @@ This repository is to summarize and archive the materials of the course [_Fundam
   - The Electromyograph
   - Grasshopper Vision
 - Final Exam
-### Supplemental materials
-  - [UTHealth Neuroscience Online Textbook: Chapter 1](https://nba.uth.tmc.edu/neuroscience/s1/chapter01.html)
-  - [UTHealth Neuroscience Online Textbook: Chapter 2](https://nba.uth.tmc.edu/neuroscience/s1/chapter02.html)
-  - [UTHealth Neuroscience Online Textbook: Chapter 3](https://nba.uth.tmc.edu/neuroscience/s1/chapter03.html)
+
+## Part 2: The Electrical Properties of the Neuron
+
+[Fundamentals of Neuroscience, Part 2: Neurons and Networks](https://www.harvardonline.harvard.edu/course/fundamentals-neuroscience-part-2-neurons-networks)
+
+- Lesson 1: The Synapse
+  - Introduction to Lesson 1
+  - Synapses: Overview
+  - Basics of Synaptic Transmission
+  - Anatomy of the Synapse
+  - The Presynaptic Terminal
+  - Visualizing the Synapse
+  - SNAREs
+  - Lesson 1 Conclusion
+- Lesson 2: Excitation and Inhibition
+  - Introduction to Lesson 2
+  - Excitation and Inhibition Overview
+  - Life of a Neurotransmitter
+  - EPSPs and IPSPs
+  - EPSPs in Depth
+  - Acetylcholine Receptors In Depth
+  - Excitation Disease States
+  - Glutamate and Glutamate Receptors
+  - AMPA and NMDA Receptors
+  - IPSPs In Depth
+  - Inhibition Disease States
+  - Lesson 2 Conclusion
+  - (Extra!) Tye Lab: Optogenetics
+- Lesson 3: Small Circuits
+  - Introduction to Lesson 3
+  - Small Circuits Overview
+  - Information Processing
+  - Synaptic Efficacy and Distance
+  - Synaptic Summation
+  - Synaptic Inhibition
+  - Synaptic Temporal Summation
+  - Synaptic Temporal Inhibition
+  - Convergence and Divergence
+  - Central Pattern Generators
+  - Lesson 3 Conclusion
+  - (Extra!) Connectomics: Discussion with Prof. Jeff Lichtman
+- Lesson 4: Neuromodulation
+  - Introduction to Lesson 4
+  - What is Neuromodulation?
+  - Processes of Neuromodulation
+  - Ionotropic Receptors
+  - Metabotropic Receptors
+  - The Serotonin System
+  - Neuropeptides
+  - The Dopamine System
+  - The Cholinergic System
+  - The Noradrenaline System
+  - Lesson 4 Conclusion
+  - (Extra!) Deep Brain Stimulation
+  - (Extra!) Susan's Brain - The Science of Addiction
+- Lesson 5: Neuronal Plasticity
+  - Introduction to Lesson 5
+  - Introduction to Plasticity
+  - Short-Term Plasticity and Adaptation
+  - LTP and LTD
+  - Hebb's Rule and Associative Learning
+  - LTP in Depth
+  - LTD in Depth
+  - Spike Timing Dependent Plasticity
+  - Nonsynaptic Plasticity
+  - Lesson 5: Conclusion
+  - (Extra!) MDMA-Assisted Psychotherapy
+- Final Exam
+
+## Part 3: The Brain
+
+[Fundamentals of Neuroscience, Part 3: The Brain](https://www.harvardonline.harvard.edu/course/fundamentals-neuroscience-part-3-brain)
+
+- Lesson 1: Vision
+  - Introduction to Lesson 1
+  - Lesson 1 Highlights
+  - The Properties of Vision
+  - The Nature of Light
+  - The Eye
+  - Phototransduction
+  - The Dress
+  - Color Vision
+  - Retinal Processing
+  - The Retinal Circuit
+  - The Retinofugal Projection
+  - The Lateral Geniculate Nucleus
+  - Primary Visual Cortex (V1)
+  - The Physiology of Area V1
+  - Visual Pathways
+  - Lesions of the Visual Cortex
+  - Review of Pathways and the Binding Problem
+  - Interactive Diagram: The Eye
+  - Interactive Diagram: Visual Processing
+  - (Extra!) Anatomy of the Visual System
+  - (Extra!) The Poetry of Perception
+  - (Extra!) Neuroscience of Color
+  - (Extra!) Neuroscience of Art
+- Lesson 2: Audition
+  - Introduction to Lesson 2
+  - Lesson 2 Highlights
+  - The Nature of Sound
+  - Auditory Anatomy
+  - Conduction Deafness
+  - The Inner Ear
+  - Physiology of the Cochlea
+  - Frequency Detection
+  - Sensorineural Hearing Loss
+  - Subcortical Auditory Pathways
+  - Auditory Cortex
+  - Localizing Sound
+  - Interactive Diagram: Audition
+  - (Extra!) Anatomy of the Auditory System
+  - (Extra!) The Poetry of Perception
+  - (Extra!) Split the lark
+  - (Extra!) Song of myself
+- Lesson 3: Smell, Taste, and the Remaining Senses
+  - Introduction to Lesson 3
+  - Lesson 3 Highlights
+  - Gustation: Receptors
+  - Gustation: Perception
+  - Interactive Diagram: Gustation
+  - Olfaction: Receptors
+  - Olfactory Pathways
+  - Interactive Diagram: Olfaction
+  - Somatosensory Receptors
+  - Somatosensory Processing
+  - Interactive Diagram: Somatosensation
+  - Sensation in the Animal Kingdom
+  - Super Senses
+  - (Extra!) Anatomy of the Olfactory System
+  - (Extra!) Anatomy of the Gustatory System
+  - (Extra!) Poetry of Perception
+  - (Extra!) Song of Myself
+  - (Extra!) I taste a liquor never brewed
+  - (Extra!) Smell!
+- Lesson 4: Movement & Action
+  - Introduction to Lesson 4
+  - Lesson 4 Highlights
+  - Muscles
+  - Skeletal Muscles
+  - Lower Motor Neurons
+  - Intrinsic Spinal Circuits
+  - Central Pattern Generators
+  - Brain Control of Movement
+  - Upper Motor Neurons
+  - Corticospinal Neurons
+  - Motor Control Hierarchy
+  - Lesions of Motor Cortex
+  - Interactive Diagram: Movement & Action
+  - (Extra!) Anatomy of the Motor System
+  - (Extra!) Poetry of Perception
+- Lesson 5: Subcortical Brain Areas
+  - Introduction to Lesson 5
+  - Lesson 5 Highlights
+  - The Hindbrain
+  - The Midbrain
+  - The Cerebellum
+  - The Forebrain
+  - The Basal Ganglia
+  - The Thalamus
+  - The Limbic System
+  - The Hippocampus
+  - The Hypothalamus
+  - Interactive Diagram: Subcortical Brain Regions
+- Final Exam
